@@ -1,0 +1,4 @@
+Result of SenchaCon 2010 hackathon. Simple mashup of node, connect, Ext JS, and Yabble to share code between both the client and the server. Shares a simple email validation function for both server-side and client-side validation. Uses Yabble to run CommonJS modules on the client.
+
+To use, install the latest node and connect and run:
+node server.js
