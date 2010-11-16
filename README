@@ -2,3 +2,5 @@ Result of SenchaCon 2010 hackathon. Simple mashup of node, connect, Ext JS, and 
 
 To use, install the latest node and connect and run:
 node server.js
+
+This is the result of throwing together various examples from Ext JS and Connect in a short amount of time (so code isn't exactly perfect). Thanks again to the guys in the node group.
